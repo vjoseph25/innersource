@@ -1,7 +1,7 @@
 ```markdown
 # Project Title
 
-One Paragraph of project description goes here
+App for puple booths
 
 ## Getting Started
 
